@@ -28,14 +28,14 @@ The API endpoints were thoroughly tested using Postman to validate the CRUD life
 > [!NOTE]
 > The server responds with appropriate HTTP status codes and JSON acknowledgment messages for every operation.
 
-````carousel
-![Test Evidence 1](/home/mac/.gemini/antigravity/brain/7a471c4d-fe97-4253-99f0-a2eab5cc4257/artifacts/Screenshot%20From%202026-05-12%2012-04-16.png)
+
+![Test Evidence 1](./img/Screenshot%20From%202026-05-12%2012-04-16.png)
 <!-- slide -->
-![Test Evidence 2](/home/mac/.gemini/antigravity/brain/7a471c4d-fe97-4253-99f0-a2eab5cc4257/artifacts/Screenshot%20From%202026-05-12%2012-04-31.png)
+![Test Evidence 2](./img/Screenshot%20From%202026-05-12%2012-04-31.png)
 <!-- slide -->
-![Test Evidence 3](/home/mac/.gemini/antigravity/brain/7a471c4d-fe97-4253-99f0-a2eab5cc4257/artifacts/Screenshot%20From%202026-05-12%2012-14-23.png)
+![Test Evidence 3](./img/Screenshot%20From%202026-05-12%2012-14-23.png)
 <!-- slide -->
-![Test Evidence 4](/home/mac/.gemini/antigravity/brain/7a471c4d-fe97-4253-99f0-a2eab5cc4257/artifacts/Screenshot%20From%202026-05-12%2012-14-34.png)
+![Test Evidence 4](./img/Screenshot%20From%202026-05-12%2012-14-34.png)
 <!-- slide -->
-![Test Evidence 5](/home/mac/.gemini/antigravity/brain/7a471c4d-fe97-4253-99f0-a2eab5cc4257/artifacts/Screenshot%20From%202026-05-12%2012-14-56.png)
-````
+![Test Evidence 5](./img/Screenshot%20From%202026-05-12%2012-14-56.png)
+
