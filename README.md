@@ -1,5 +1,9 @@
 # Student Registration System: Project Report
 
+**Made by**:
+- Mohamed Anas Charkaoui
+- Akram El Assri
+
 ## 1. Goal of the Project
 The goal of this project is to build a robust and reliable **Student Registration System** backend. The system allows administrators and front-end applications to manage student records efficiently. It provides complete Create, Read, Update, and Delete (CRUD) capabilities for student entities, tracking essential data such as their name, contact email, enrollment year, and birth year. 
 
