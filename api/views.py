@@ -1,20 +1,9 @@
 from django.shortcuts import render
+from .controllers import StudentController
 
 # Create your views here.
-from django.http import JsonResponse
-from .models import Student
-
-def student_list(request):
-    students = Student.objects.all()
-
-    data = []
-
-    for student in students:
-        data.append({
-            "id": student.id,
-            "title": student.title,
-            "author": student.author,
-            "published_year": student.published_year
-        })
-
-    return JsonResponse(data, safe=False)
+def student_router(request):
+    if request.method == 'GET':
+        return StudentController.getStudents()
+    elif request.method == 'POST':
+        pass
