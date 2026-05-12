@@ -1,6 +1,5 @@
 from django.shortcuts import render
-from .controllers import StudentController
-
+from controllers import StudentController
 # Create your views here.
 def student_router(request):
     if request.method == 'GET':
